@@ -1,0 +1,48 @@
+header {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    
+
+}
+    
+
+#boldog {
+    width: 300px;
+    display: flex;
+           
+}
+
+
+div {
+    display: block;
+    padding: 50px;
+    margin-left: 120px;
+}
+
+#kepek {
+    width: 250px;
+    margin: 35px;
+    border-radius: 5%;
+    box-shadow: 3px 3px 3px 3px #ffd5c0;
+
+
+  }
+
+  #kepek:hover {
+    width: 350px;
+    margin: 0;
+  }
+
+  footer {
+      display: flex;
+      border-top: 5px dotted #ffd5c0;
+      
+  }
+
+  #cica {
+      width: 300px;
+      padding: 10px;
+      margin: 50px;
+      border-radius: 50%;
+  }
